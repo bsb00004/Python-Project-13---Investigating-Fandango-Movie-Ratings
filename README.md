@@ -30,6 +30,6 @@ Reading in and explore briefly the two data sets:
 Documentation of both datasets are available in related github repositories.
 
 ## Note
-### - Please see the __Movie_Ratings.ipynb__ file to see whole project in detail.
-### - Please see __Movie_Ratings.py__ file to see the python code.
-### -  __movie_ratings_16_17.csv__ & __fandango_score_comparison.csv__ are the datasets we used in this project.
+### - Please see the _Movie_Ratings.ipynb_ file to see whole project in detail.
+### - Please see _Movie_Ratings.py_ file to see the python code.
+### -  _movie_ratings_16_17.csv_ & _fandango_score_comparison.csv_ are the datasets we used in this project.
